@@ -130,3 +130,24 @@ main section{
 .ii{
    color: #757575;
 }
+.resume-title{
+    text-align: center;
+}
+.section{
+    display: flex;
+    padding: 30px 30px;
+}
+.section h2{
+    padding-right: 30px;
+    color: #474747;
+}
+.entry p{
+    color: #757575;
+}
+.entry h3{
+    color: rgba(0, 0, 0, 1);
+}
+.entry{
+   padding-right: 30px;
+   padding-left: 30px;
+}
